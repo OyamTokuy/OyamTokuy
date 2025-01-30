@@ -2,8 +2,9 @@
 
 Welcome to Wonderland of OtsuRed
 
-- `forest-of-ozred` Where the witch store his or her magic logs. It would be much appreciated if you could provide any constructive criticism, because OtsuRed is still a novice witch. [~ visit Forest of Ozred ~`](https://github.com/OyamTokuy/forest-of-ozred)
-- `secret-spring-of-witch` Where the witch takes rests.
+- `forest-of-ozred` Where the witch store his or her magic logs. It would be much appreciated if you could provide any constructive criticism, because OtsuRed is still a novice witch. [~ visit Forest of Ozred ~](https://github.com/OyamTokuy/forest-of-ozred)
+- `kingdom-of-inconceivable` Where the witch buys his or her necessity or some weird stuff. [~ go to the Kingdom ~](https://github.com/OyamTokuy/kingdom-of-inconcievable)
+- `secret-spring-of-witch` Where the witch takes rests.[~ the witch doesn't want to be disturbed ~](https://github.com/OyamTokuy)
 
 <!--
 - `forest-of-ozred` OtsuRed 存放魔法记录的地方，欢迎前来指正 Ta 的错误
