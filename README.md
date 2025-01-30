@@ -15,12 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=OyamTokuy&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OyamTokuy&layout=compact&langs_count=8&theme=transparent" />
-</a>
+## Stats
+
+<div>
+<div class="left_div" style="display: inline;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=OyamTokuy&show_icons=true&theme=transparent" />
+  </a>
+</div>
+<div class="right_div" style="display: inline;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OyamTokuy&layout=compact&langs_count=8&theme=transparent" />
+  </a>
+</div>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OyamTokuy/OyamTokuy/output/github-contribution-grid-snake-dark.svg" />
