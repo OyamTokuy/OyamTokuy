@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OyamTokuy)](https://github.com/anuraghazra/github-readme-stats)
 
-![暗色](https://raw.githubusercontent.com/你的用户名/你的仓库名/output/github-contribution-grid-snake-dark.svg)
-![亮色](https://raw.githubusercontent.com/你的用户名/你的仓库名/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/OyamTokuy/OyamTokuy/main/assets/github-contribution-grid-snake.svg)
 
