@@ -2,7 +2,7 @@
 
 Welcome to Wonderland of OtsuRed
 
-- `forest-of-ozred` Where the witch store his or her magic logs. It would be much appreciated if you could provide any constructive criticism, because OtsuRed is still a novice witch.
+- `forest-of-ozred` Where the witch store his or her magic logs. It would be much appreciated if you could provide any constructive criticism, because OtsuRed is still a novice witch. [~ visit Forest of Ozred ~`](OyamTokuy/forest-of-ozred)
 - `secret-spring-of-witch` Where the witch takes rests.
 
 <!--
